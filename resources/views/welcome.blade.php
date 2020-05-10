@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                    Time For CI CD Pipeling
                 </div>
+                <div>
+                    Regards:  <span><strong>Zee</strong></span>
+                </div>
 
              
             </div>
