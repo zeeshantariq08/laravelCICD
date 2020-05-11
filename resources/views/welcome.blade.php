@@ -84,7 +84,7 @@
                    Time For CI CD Pipeling
                 </div>
                 <div>
-                    Regards:  <span><strong>Zeeshan Tariq</strong></span>
+                    Regards:  <span><strong>Zeeshan</strong></span>
                 </div>
 
              
